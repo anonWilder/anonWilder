@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**anonWilder/anonWilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hey 👋, I'm Kenechukwu
 
 <a href="https://www.linkedin.com/in/kenechukwu-egbonu-640748230/">
