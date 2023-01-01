@@ -25,7 +25,7 @@ Hi there! My name is **Egbonu Kenechukwu** and I am a **multi-talented individua
 - 👨🏽‍💻 I’m currently a **Software Engineering Student** at **ALX_AFRICA**;
 - 🔭 I’m currently working on 
 - 🌱 I’m a Technical Writer
-- 🤔 My interests are with Computational Physics, Data Engineering, Gaming Community service.;
+- 🤔 My interests are with Computational Physics, Data Engineering, Gaming & Community service.;
 - 💼 I’m pursuing a Bachelor's degree in Physics;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: through whatsapp:+2349077570157
