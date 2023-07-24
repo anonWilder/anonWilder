@@ -28,7 +28,7 @@ Hi there! My name is **Egbonu Kenechukwu** and I am a **multi-talented individua
 - 🤔 My interests are with Computational Physics, Data Engineering, Gaming & Community service.;
 - 💼 I’m pursuing a Bachelor's degree in Physics;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: through whatsapp:+2349077570157 or on +2349047578635
+- 📫 How to reach me: through whatsapp:+2348143476586 or on +2349047578635
 - ⚡ Fun fact: I love Jazz, blues and Pop.
 - 📫 Please email via austineokafor.e@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://docs.google.com/document/d/1QZtcsAsQSuioILJIIvU0C0pcrRCr8R3_/edit?usp=share_link&ouid=102002526729328221110&rtpof=true&sd=true) to get more info.
