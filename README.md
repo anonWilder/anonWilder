@@ -10,10 +10,11 @@ Hi there! My name is **Egbonu Kenechukwu** and I am a **multi-talented individua
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a **Software Engineering Student**;
+- 👨🏽‍💻 I’m currently a Full Stack Software Engineering Student;
 - 🌱 I’m a Technical Writer
 - 🤔 My interests are with Computational Physics, Data Engineering, Gaming & Community service.;
-- 💼 I’m pursuing a Bachelor's degree in Physics;
+- 💼 I hold a Bachelor's degree in Physics;
+- 💼 I’m pursuing a PGD in Medical Physics;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I love Jazz, blues and Pop.
 
