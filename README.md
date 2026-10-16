@@ -8,8 +8,8 @@ Hi there! My name is **Egbonu Kenechukwu** and I am a **multi-talented individua
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Full Stack Software Engineering Student;
-- 🌱 I’m a Technical Writer
+- 👨🏽‍💻 I’m currently a Full Stack Software Engineer;
+- 🌱 I’m a Technical Writer;
 - 🤔 My interests are with Computational Physics, Data Engineering, Gaming & Community service.;
 - 💼 I hold a Bachelor's degree in Physics;
 - 💼 I’m pursuing a PGD in Medical Physics;
