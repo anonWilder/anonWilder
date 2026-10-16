@@ -1,17 +1,5 @@
 ### Hey 👋, I'm Kenechukwu
 
-<a href="https://www.linkedin.com/in/kenechukwu-egbonu-640748230/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/Kenechi__">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/egbonu_kenechukwu/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://web.facebook.com/julys.august/">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br />
 <br />
@@ -22,8 +10,7 @@ Hi there! My name is **Egbonu Kenechukwu** and I am a **multi-talented individua
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a **Software Engineering Student** at **ALX_AFRICA**;
-- 🔭 Currently working on TribeLike E-Commerce Web site with Django
+- 👨🏽‍💻 I’m currently a **Software Engineering Student**;
 - 🌱 I’m a Technical Writer
 - 🤔 My interests are with Computational Physics, Data Engineering, Gaming & Community service.;
 - 💼 I’m pursuing a Bachelor's degree in Physics;
