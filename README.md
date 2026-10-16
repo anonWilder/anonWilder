@@ -2,7 +2,7 @@
 
 <br />
 
-Hi there! My name is **Egbonu Kenechukwu** and I am a **multi-talented individual** with a diverse range of skills and interests. I am a **Freelance** Fullstack Software Developer( 🌍 ) and a **technical writer✍**, as well as a **science teacher👨‍🔬**. With a strong background in **computer science** and a passion for creating **user-friendly and visually appealing softwares**, I am dedicated to continuously learning and improving my skills as a developer. Thank you for visiting my **GitHub profile**, and I hope you find my projects to be both **informative and enjoyable.**
+Hi there! I am a **multi-talented individual** with a diverse range of skills and interests. I am a **Freelance** Fullstack Software Developer( 🌍 ) and a **technical writer✍**, as well as a **science teacher👨‍🔬**. With a strong background in **computer science** and a passion for creating **user-friendly and visually appealing softwares**, I am dedicated to continuously learning and improving my skills as a developer. Thank you for visiting my **GitHub profile**, and I hope you find my projects to be both **informative and enjoyable.**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
