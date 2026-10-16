@@ -1,7 +1,5 @@
 ### Hey 👋, I'm Kenechukwu
 
-
-<br />
 <br />
 
 Hi there! My name is **Egbonu Kenechukwu** and I am a **multi-talented individual** with a diverse range of skills and interests. I am a **Freelance** Fullstack Software Developer( 🌍 ) and a **technical writer✍**, as well as a **science teacher👨‍🔬**. With a strong background in **computer science** and a passion for creating **user-friendly and visually appealing softwares**, I am dedicated to continuously learning and improving my skills as a developer. Thank you for visiting my **GitHub profile**, and I hope you find my projects to be both **informative and enjoyable.**
@@ -32,6 +30,5 @@ Hi there! My name is **Egbonu Kenechukwu** and I am a **multi-talented individua
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-![Kenechukwu's github stats](https://github-readme-stats.vercel.app/api?username=anonWilder&show_icons=true&hide_border=true)
 
 ⭐️ From [Kenechukwu](https://github.com/anonWilder)
